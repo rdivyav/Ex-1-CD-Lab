@@ -75,10 +75,10 @@ int main() {
 
 	return 0;
 }
-
 ```
 # OUTPUT
 <img width="1460" height="624" alt="Screenshot 2025-09-05 155700" src="https://github.com/user-attachments/assets/7dc30f48-a3ab-4a1a-a7b3-34554618af55" />
 <img width="1468" height="574" alt="Screenshot 2025-09-05 155808" src="https://github.com/user-attachments/assets/f3cc1deb-80a7-4c4c-b4bc-efc106df0670" />
+
 # RESULT
 ### The program to implement a symbol table is executed and the output is verified.
